@@ -40,5 +40,8 @@ curl -sO $link
 # # download the forge installer
 curl -sO https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-installer.jar
 
+# download optifine installer
+curl -so OptiFine_1.19.2_HD_U_I2.jar https://optifine.net/downloadx?f=OptiFine_1.19.2_HD_U_I2.jar&x=a0c453edda54013152bc6b4736ce818f
+
 # return current directory
 popd
