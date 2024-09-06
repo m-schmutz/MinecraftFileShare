@@ -1,4 +1,4 @@
 #!/usr/bin/bash
 
 # 
-./darkhttpd pages/ --no-listing
+./darkhttpd pages/ --no-listing 
